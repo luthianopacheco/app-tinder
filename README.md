@@ -1,16 +1,7 @@
-# tinder
+# App Tinder (Réplica)
 
-A new Flutter project.
+Montagem da tela de login iniciada. Projeto réplica que darei continuidade para estudo.
 
-## Getting Started
+![tinder login_page](https://github.com/luthianopacheco/app-tinder/assets/131195495/34cb3dce-a8e3-4908-9450-be4a43d2ad70)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Criado em base de tela do Pixel 2 API 31 emulado pelo Android Studio.
